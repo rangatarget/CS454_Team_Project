@@ -1,0 +1,198 @@
+{
+    "lang1": [
+        "org/apache/commons/lang3/math/NumberUtils::toInt::(String)::98",
+        "org/apache/commons/lang3/math/NumberUtils::createNumber::(String)::449"
+    ],
+    "lang3": [
+        "org/apache/commons/lang3/math/NumberUtils::createNumber::(String)::450"
+    ],
+    "lang4": [
+        "org/apache/commons/lang3/text/translate/LookupTranslator::translate::(CharSequence, int, Writer)::69"
+    ],
+    "lang5": [
+        "org/apache/commons/lang3/LocaleUtils::toLocale::(String)::88"
+    ],
+    "lang6": [
+        "org/apache/commons/lang3/text/translate/CharSequenceTranslator::translate::(CharSequence, Writer)::75"
+    ],
+    "lang7": [
+        "org/apache/commons/lang3/math/NumberUtils::createNumber::(String)::445",
+        "org/apache/commons/lang3/math/NumberUtils::createBigDecimal::(String)::713"
+    ],
+    "lang8": [
+        "org/apache/commons/lang3/time/FastDatePrinter::getTimeZoneDisplay::(TimeZone, boolean, int, Locale)::1078"
+    ],
+    "lang9": [
+        "org/apache/commons/lang3/time/FastDateParser::init::()::115"
+    ],
+    "lang10": [
+        "org/apache/commons/lang3/time/FastDateParser::escapeRegex::(StringBuilder, String, boolean)::303"
+    ],
+    "lang11": [
+        "org/apache/commons/lang3/RandomStringUtils::random::(int, int, int, boolean, boolean, char, Random)::223"
+    ],
+    "lang12": [
+        "org/apache/commons/lang3/RandomStringUtils::random::(int, int, int, boolean, boolean, char, Random)::223"
+    ],
+    "lang13": [
+        "org/apache/commons/lang3/SerializationUtils::deserialize::(byte)::217"
+    ],
+    "lang14": [
+        "org/apache/commons/lang3/StringUtils::equals::(CharSequence, CharSequence)::781"
+    ],
+    "lang15": [
+        "org/apache/commons/lang3/reflect/TypeUtils::isAssignable::(Type, ParameterizedType, Map)::179",
+        "org/apache/commons/lang3/reflect/TypeUtils::getTypeArguments::(Class, Class, Map)::650"
+    ],
+    "lang16": [
+        "org/apache/commons/lang3/math/NumberUtils::createNumber::(String)::444"
+    ],
+    "lang17": [
+        "org/apache/commons/lang3/text/translate/CharSequenceTranslator::translate::(CharSequence, Writer)::75"
+    ],
+    "lang19": [
+        "org/apache/commons/lang3/text/translate/NumericEntityUnescaper::translate::(CharSequence, int, Writer)::37"
+    ],
+    "lang20": [
+        "org/apache/commons/lang3/StringUtils::join::(Object, char, int, int)::3289",
+        "org/apache/commons/lang3/StringUtils::join::(Object, String, int, int)::3368"
+    ],
+    "lang21": [
+        "org/apache/commons/lang3/time/DateUtils::isSameLocalTime::(Calendar, Calendar)::258"
+    ],
+    "lang22": [
+        "org/apache/commons/lang3/math/Fraction::greatestCommonDivisor::(int, int)::581"
+    ],
+    "lang24": [
+        "org/apache/commons/lang3/math/NumberUtils::isNumber::(String)::1319"
+    ],
+    "lang26": [
+        "org/apache/commons/lang3/time/FastDateFormat::format::(Date)::819"
+    ],
+    "lang27": [
+        "org/apache/commons/lang3/math/NumberUtils::createNumber::(String)::452"
+    ],
+    "lang28": [
+        "org/apache/commons/lang3/text/translate/NumericEntityUnescaper::translate::(CharSequence, int, Writer)::35"
+    ],
+    "lang29": [
+        "org/apache/commons/lang3/SystemUtils::toJavaVersionInt::(String)::1672"
+    ],
+    "lang30": [
+        "org/apache/commons/lang3/StringUtils::indexOfAny::(CharSequence, char)::1371",
+        "org/apache/commons/lang3/StringUtils::containsAny::(CharSequence, char)::1443",
+        "org/apache/commons/lang3/StringUtils::containsAny::(CharSequence, String)::1497",
+        "org/apache/commons/lang3/StringUtils::indexOfAnyBut::(CharSequence, char)::1528",
+        "org/apache/commons/lang3/StringUtils::indexOfAnyBut::(String, String)::1569",
+        "org/apache/commons/lang3/StringUtils::containsNone::(CharSequence, char)::1673"
+    ],
+    "lang31": [
+        "org/apache/commons/lang3/StringUtils::containsAny::(CharSequence, char)::1440"
+    ],
+    "lang32": [
+        "org/apache/commons/lang3/builder/HashCodeBuilder::getRegistry::()::136",
+        "org/apache/commons/lang3/builder/HashCodeBuilder::isRegistered::(Object)::151",
+        "org/apache/commons/lang3/builder/HashCodeBuilder::register::(Object)::521",
+        "org/apache/commons/lang3/builder/HashCodeBuilder::unregister::(Object)::537"
+    ],
+    "lang33": [
+        "org/apache/commons/lang3/ClassUtils::toClass::(Object)::902"
+    ],
+    "lang34": [
+        "org/apache/commons/lang3/builder/ToStringStyle::getRegistry::()::147",
+        "org/apache/commons/lang3/builder/ToStringStyle::isRegistered::(Object)::162"
+    ],
+    "lang35": [
+        "org/apache/commons/lang3/ArrayUtils::add::(T, T)::3288",
+        "org/apache/commons/lang3/ArrayUtils::add::(T, int, T)::3567"
+    ],
+    "lang36": [
+        "org/apache/commons/lang3/math/NumberUtils::createNumber::(String)::448",
+        "org/apache/commons/lang3/math/NumberUtils::isNumber::(String)::1312"
+    ],
+    "lang37": [
+        "org/apache/commons/lang3/ArrayUtils::addAll::(T, T)::2953"
+    ],
+    "lang38": [
+        "org/apache/commons/lang3/time/FastDateFormat::format::(Calendar, StringBuffer)::870"
+    ],
+    "lang39": [
+        "org/apache/commons/lang3/StringUtils::replaceEach::(String, String, String, boolean, int)::3605"
+    ],
+    "lang40": [
+        "org/apache/commons/lang/StringUtils::containsIgnoreCase::(String, String)::1044"
+    ],
+    "lang41": [
+        "org/apache/commons/lang/ClassUtils::getShortClassName::(String)::183",
+        "org/apache/commons/lang/ClassUtils::getPackageName::(String)::244"
+    ],
+    "lang42": [
+        "org/apache/commons/lang/Entities::escape::(Writer, String)::825"
+    ],
+    "lang43": [
+        "org/apache/commons/lang/text/ExtendedMessageFormat::appendQuotedString::(String, ParsePosition, StringBuffer, boolean)::417"
+    ],
+    "lang44": [
+        "org/apache/commons/lang/NumberUtils::createNumber::(String)::138"
+    ],
+    "lang45": [
+        "org/apache/commons/lang/WordUtils::abbreviate::(String, int, int, String)::605"
+    ],
+    "lang46": [
+        "org/apache/commons/lang/StringEscapeUtils::escapeJava::(String)::85",
+        "org/apache/commons/lang/StringEscapeUtils::escapeJava::(Writer, String)::101",
+        "org/apache/commons/lang/StringEscapeUtils::escapeJavaScript::(String)::126",
+        "org/apache/commons/lang/StringEscapeUtils::escapeJavaScript::(Writer, String)::142",
+        "org/apache/commons/lang/StringEscapeUtils::escapeJavaStyleString::(String, boolean)::154",
+        "org/apache/commons/lang/StringEscapeUtils::escapeJavaStyleString::(Writer, String, boolean)::178"
+    ],
+    "lang47": [
+        "org/apache/commons/lang/text/StrBuilder::appendFixedWidthPadLeft::(Object, int, char)::1182",
+        "org/apache/commons/lang/text/StrBuilder::appendFixedWidthPadRight::(Object, int, char)::1226"
+    ],
+    "lang49": [
+        "org/apache/commons/lang/math/Fraction::reduce::()::465"
+    ],
+    "lang50": [
+        "org/apache/commons/lang/time/FastDateFormat::getDateInstance::(int, TimeZone, Locale)::279",
+        "org/apache/commons/lang/time/FastDateFormat::getDateTimeInstance::(int, int, TimeZone, Locale)::458"
+    ],
+    "lang51": [
+        "org/apache/commons/lang/BooleanUtils::toBoolean::(String)::649"
+    ],
+    "lang52": [
+        "org/apache/commons/lang/StringEscapeUtils::escapeJavaStyleString::(Writer, String, boolean)::171"
+    ],
+    "lang53": [
+        "org/apache/commons/lang/time/DateUtils::modify::(Calendar, int, boolean)::620"
+    ],
+    "lang54": [
+        "org/apache/commons/lang/LocaleUtils::toLocale::(String)::94"
+    ],
+    "lang55": [
+        "org/apache/commons/lang/time/StopWatch::stop::()::114"
+    ],
+    "lang57": [
+        "org/apache/commons/lang/LocaleUtils::isAvailableLocale::(Locale)::222"
+    ],
+    "lang58": [
+        "org/apache/commons/lang/math/NumberUtils::createNumber::(String)::397"
+    ],
+    "lang59": [
+        "org/apache/commons/lang/text/StrBuilder::appendFixedWidthPadRight::(Object, int, char)::878"
+    ],
+    "lang60": [
+        "org/apache/commons/lang/text/StrBuilder::contains::(char)::1671",
+        "org/apache/commons/lang/text/StrBuilder::indexOf::(char, int)::1724"
+    ],
+    "lang61": [
+        "org/apache/commons/lang/text/StrBuilder::indexOf::(String, int)::1760"
+    ],
+    "lang62": [
+        "org/apache/commons/lang/Entities::unescape::(String)::813",
+        "org/apache/commons/lang/Entities::unescape::(Writer, String)::884"
+    ],
+    "lang65": [
+        "org/apache/commons/lang/time/DateUtils::modify::(Calendar, int, boolean)::619"
+    ]
+}
